@@ -1,4 +1,5 @@
-# AndroTerm ### von Ganishk
+# AndroTerm
+### von Ganishk
 ##### A simple Android Terminal Emulator
 
 ## Description
